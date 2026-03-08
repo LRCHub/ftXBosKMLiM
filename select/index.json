@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひみつ気分",
+  "base_artist": "なきそ",
+  "createdAt": "2026-03-08T05:32:54.983203Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひみつ気分",
+      "artist": "なきそ",
+      "has_synced": false,
+      "path": "select/pl_01_ひみつ気分_なきそ.txt"
+    }
+  ]
+}
